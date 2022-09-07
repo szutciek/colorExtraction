@@ -1,3 +1,3 @@
-### Color Extraction Tool
+# Color Extraction Tool
 
-# Made with html and vanilla js
+### Made with html and vanilla js
